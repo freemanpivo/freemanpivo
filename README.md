@@ -29,7 +29,7 @@ These are the technologies I've already work or still working in my job:
 ## 🌱 I’m currently learning
 
  - AWS Solutions Architect: Associate - Certification
- - Terraform
+ - CloudFormation
  - Clojure
 
 <!--
