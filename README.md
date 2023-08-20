@@ -29,8 +29,8 @@ These are the technologies I've already work or still working in my job:
 ## 🌱 I’m currently learning
 
  - AWS Solutions Architect: Associate - Certification
- - CloudFormation
- - Clojure
+ - DDD
+ - Golang
 
 <!--
 **freemanpivo/freemanpivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
